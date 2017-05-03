@@ -1,0 +1,9 @@
+Behavior spell-off grammar-off visible=false
+
+Enter filepath 
+C:\Users\SeyranA\Desktop\WordProcessing_V3\B.docx
+Time in milliseconds 0 sec 50 millisec
+Time in milliseconds 0 sec 91 millisec
+Time in milliseconds 0 sec 70 millisec
+Time in milliseconds 0 sec 104 millisec
+Time in milliseconds 0 sec 246 millisec
